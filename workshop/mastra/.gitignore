@@ -1,5 +1,6 @@
 node_modules/**
 mastra.db
+mastra.db-*
 src/agent.txt
 src/workflow.txt
 .mastra
